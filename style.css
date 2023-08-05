@@ -1,0 +1,78 @@
+head,body{
+    background-color: beige;
+}
+#w{
+    text-align: center;
+    font-size: 75px;
+    background-image: url(./pexels-steve-johnson-1704120.jpg);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+#c{
+    font-family: monospace;
+}
+#s{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#box{
+    height: auto;
+    width: auto;
+    background-color: beige;
+    overflow: hidden;
+}
+#box img{
+    height: 600px;
+    width: 465px;
+    object-fit: cover;
+    transition: all ease 1s;
+}
+#box:hover img{
+    scale: 1.2;
+}
+#a2{
+    height: auto;
+    width: auto;
+    background-color: beige;
+    overflow: hidden;
+}
+#a2 img{
+    height: 600px;
+    width: 465px;
+    object-fit: cover;
+    transition: all ease 1s;
+}
+#a2:hover img{
+    scale: 1.2;
+}
+#a3{
+    height: auto;
+    width: auto;
+    background-color: beige;
+    overflow: hidden;
+}
+#a3 img{
+    height: 600px;
+    width: 465px;
+    object-fit: cover;
+    transition: all ease 1s;
+}
+#a3:hover img{
+    scale: 1.2;
+}
+#a4{
+    height: auto;
+    width: auto;
+    background-color: beige;
+    overflow: hidden;
+}
+#a4 img{
+    height: 600px;
+    width: 465px;
+    object-fit: cover;
+    transition: all ease 1s;
+}
+#a4:hover img{
+    scale: 1.2;
+}
